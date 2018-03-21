@@ -1,4 +1,4 @@
-# I've joined the #100DaysOfCode Challenge.
+# My personal journey to the 100 Days of Code Challenge.
 
 Hi there! This is my personal repo for the #100DaysOfCode Challenge. I started it in 21 of March 2018.
 
