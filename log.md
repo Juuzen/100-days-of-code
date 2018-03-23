@@ -11,7 +11,7 @@
 * [Core Graphics Tutorial Part 2](https://www.raywenderlich.com/162313/core-graphics-tutorial-part-2-gradients-contexts) (by Ray Wenderlich as well)
 
 **Link(s) to work:**
-* *coming soon!*
+* [Flo](https://github.com/Juuzen/DrinkingBehaviour)
 
 
 ### Day 1: March 22, 2018
