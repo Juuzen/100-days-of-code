@@ -9,6 +9,7 @@
 **Useful link(s):** 
 * [Core Graphics Tutorial Part 1](https://www.raywenderlich.com/162315/core-graphics-tutorial-part-1-getting-started) (by Ray Wenderlich)
 * [Core Graphics Tutorial Part 2](https://www.raywenderlich.com/162313/core-graphics-tutorial-part-2-gradients-contexts) (by Ray Wenderlich as well)
+* [Xcode and Git integration](https://www.raywenderlich.com/153084/use-git-source-control-xcode-9) (by Wenderlich-sensei)
 
 **Link(s) to work:**
 * [Flo](https://github.com/Juuzen/DrinkingBehaviour)
