@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+### Day 3: March 26, 2018
+
+**Today's Progress**: Learning about **Playground Books** for the *WWDC 2018 Scholarship Program*.
+
+**Thoughts:** It seems quite linear for now, but it will become more and more interesting once I can try my Playground Book by myself!
+
+**Useful link(s):** 
+* [Playground Book Format Apple Documentation](https://developer.apple.com/library/content/documentation/Xcode/Conceptual/swift_playgrounds_doc_format/index.html)
+* [Playground Book Starting Tutorial](https://videos.raywenderlich.com/screencasts/894-swift-playground-books-getting-started) (by Ray Wenderlich)
+
 ### Day 2: March 23, 2018
 
 **Today's Progress**: Working with **Core Graphics** for the *WWDC 2018 Scholarship Program*.
