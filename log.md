@@ -1,5 +1,18 @@
 # 100 Days Of Code - Log
 
+### Day 4: March 27, 2018
+
+**Today's Progress:** Learning about **Timer** and **GameplayKit**!
+
+**Thoughts:** I completely changed what I wanted to do, and I started again from scratch. After a while, thinking about what I wanted to do for attending the *WWDC 2018 Scholarship Program*, I wanted to use **UIKit**, **Timer** and **GameplayKit**, so these will be really long days!
+
+**Useful link(s):**
+* [GameplayKit Reference](https://developer.apple.com/library/content/documentation/General/Conceptual/GameplayKit_Guide/index.html#//apple_ref/doc/uid/TP40015172-CH1-SW1) (by Apple)
+* [Timer Reference](https://developer.apple.com/documentation/foundation/timer) (by Apple)
+
+**Link(s) to the work:**
+* *Not available yet!*
+
 ### Day 3: March 26, 2018
 
 **Today's Progress**: Learning about **Playground Books** for the *WWDC 2018 Scholarship Program*.
@@ -9,6 +22,10 @@
 **Useful link(s):** 
 * [Playground Book Format Apple Documentation](https://developer.apple.com/library/content/documentation/Xcode/Conceptual/swift_playgrounds_doc_format/index.html)
 * [Playground Book Starting Tutorial](https://videos.raywenderlich.com/screencasts/894-swift-playground-books-getting-started) (by Ray Wenderlich)
+
+**Link(s) to the work:**
+* *Not available yet!*
+
 
 ### Day 2: March 23, 2018
 
@@ -35,6 +52,9 @@
 * [Core Graphics Tutorial](https://www.raywenderlich.com/162315/core-graphics-tutorial-part-1-getting-started) (Ray Wenderlich in my ❤️)
 * [MVP Pattern](https://medium.com/ios-os-x-development/ios-architecture-patterns-ecba4c38de52) (Article made by Bohdan Orlov)
 
+**Link(s) to the work:**
+* *Not available yet!*
+
 
 ### Day 0: March 21, 2018
 
@@ -44,3 +64,6 @@
 
 **Useful link(s):** 
 * [Core Graphics Tutorial](https://www.raywenderlich.com/162315/core-graphics-tutorial-part-1-getting-started) (Ray Wenderlich in my ❤️)
+
+**Link(s) to the work:**
+* *Not available yet!*
