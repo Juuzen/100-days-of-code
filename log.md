@@ -1,10 +1,26 @@
 # 100 Days Of Code - Log
 
+### Day 5: March 28, 2018
+
+**Today's Progress:** Learning about **GameplayKit** and **SceneKit**!
+
+**Thoughts:** I started learning more about **GameplayKit** right now. What I wanted to learn is how to randomically generate a maze, and then use **GameplayKit** to implement some Strategists for solving it. I used [Pathfinder: Gameplay Pathfinding Basics](https://developer.apple.com/library/content/samplecode/Pathfinder_GameplayKit/Introduction/Intro.html#//apple_ref/doc/uid/TP40016461-Intro-DontLinkElementID_2) as a starting point. I translated it from *Swift 3* to *Swift 4*, fixed all the warnings that raised in the process, and now I can start working on my playground! I realised that the sample code made by Apple uses **SceneKit**, so it will be really interesting learning about it as well!
+
+**Useful link(s):**
+* [GameplayKit Reference](https://developer.apple.com/library/content/documentation/General/Conceptual/GameplayKit_Guide/index.html#//apple_ref/doc/uid/TP40015172-CH1-SW1) (by Apple)
+* [Pathfinder: Gameplay Pathfinding Basics](https://developer.apple.com/library/content/samplecode/Pathfinder_GameplayKit/Introduction/Intro.html#//apple_ref/doc/uid/TP40016461-Intro-DontLinkElementID_2) (by Apple)
+* [SceneKit Reference](https://developer.apple.com/documentation/scenekit) (by Apple)
+
+**Link(s) to the work:**
+* *Not available yet!*
+
 ### Day 4: March 27, 2018
 
 **Today's Progress:** Learning about **Timer** and **GameplayKit**!
 
 **Thoughts:** I completely changed what I wanted to do, and I started again from scratch. After a while, thinking about what I wanted to do for attending the *WWDC 2018 Scholarship Program*, I wanted to use **UIKit**, **Timer** and **GameplayKit**, so these will be really long days!
+
+After a lot of hours, I managed to let the timer work on the Playground! You can see it here: http://bit.ly/timerinplayground
 
 **Useful link(s):**
 * [GameplayKit Reference](https://developer.apple.com/library/content/documentation/General/Conceptual/GameplayKit_Guide/index.html#//apple_ref/doc/uid/TP40015172-CH1-SW1) (by Apple)
