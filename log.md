@@ -1,5 +1,20 @@
 # 100 Days Of Code - Log
 
+
+
+https://www.udemy.com/ios-11-app-development-bootcamp/learn/v4/t/lecture/7555504?start=0
+### Day 6 (?): May 11, 2018
+
+**Today's Progress:** Starting again with the project!
+
+**Thoughts:** Yep, I know, it's a lot of time that passed without doing anything... it's my fault! After Easter, I got really busy with the Apple Developer Academy and so I didn't fulfilled my daily task with this project... I'm sorry for that and I'm ready to start again! Right now, I just started the "iOS 11 & Swift 4 App Development Bootcamp" course on Udemy (that you can find [here](https://www.udemy.com/ios-11-app-development-bootcamp/)), so let's see what will happen in the future!
+
+**Useful link(s):**
+* [Udemy Course](https://www.udemy.com/ios-11-app-development-bootcamp)
+
+**Link(s) to the work:**
+* *Not available yet!*
+
 ### Day 5: March 28, 2018
 
 **Today's Progress:** Learning about **GameplayKit** and **SpriteKit**!
