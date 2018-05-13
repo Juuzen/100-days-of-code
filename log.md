@@ -1,8 +1,5 @@
 # 100 Days Of Code - Log
 
-
-
-https://www.udemy.com/ios-11-app-development-bootcamp/learn/v4/t/lecture/7555504?start=0
 ### Day 6 (?): May 11, 2018
 
 **Today's Progress:** Starting again with the project!
