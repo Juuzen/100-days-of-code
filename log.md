@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 7: May 13, 2018
+
+**Today's Progress:** Creating storyboards, object positioning
+
+**Thoughts:** Nothing really important to say here, just starting from the scratch to learn in a deep way how things are done in the iOS ecosystem.
+
 ### Day 6 (?): May 11, 2018
 
 **Today's Progress:** Starting again with the project!
