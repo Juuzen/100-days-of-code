@@ -1,5 +1,18 @@
 # 100 Days Of Code - Log
 
+### Day 8: June 6, 2018
+
+**Today's Progress:** New project! Working with Core Audio
+
+**Thoughts:** For me it's quite difficult to stay at pace with the Challenge, mainly because my work in the Apple Developer Academy takes a lot of time... but I'm here! Right now, I started a new project, entirely on my own: I want to build a simple soundboard app where you can play different tracks at once. I'm currently seeing some tutorials and documentation for Core Audio and Split View Controller.
+
+**Useful link(s):**
+* [Core Audio Documentation](https://developer.apple.com/documentation/coreaudio)
+* [UISplitView Tutorial](https://www.raywenderlich.com/173753/uisplitviewcontroller-tutorial-getting-started-2)
+
+**Link(s) to the work:**
+*Not available yet!*
+
 ### Day 7: May 13, 2018
 
 **Today's Progress:** Creating storyboards, object positioning
