@@ -1,6 +1,16 @@
 # 100 Days Of Code - Log
 
-### Day 8: June 6, 2018
+### Day 9: June 6, 2018
+
+**Today's Progress:** Working with AVFoundation
+
+**Thoughts:** I managed to get a single audio file to play, pause and stop inside my app. For the future (aka tomorrow I hope), I'd like to be able to choose between 4 different audio files.
+
+**Useful link(s):**
+* [AVFoundation Documentation](https://developer.apple.com/documentation/avfoundation)
+* [Audio management simple tutorial](https://www.youtube.com/watch?v=wgHhpTV6UHs) (by Yp.py)
+
+### Day 8: June 5, 2018
 
 **Today's Progress:** New project! Working with Core Audio
 
