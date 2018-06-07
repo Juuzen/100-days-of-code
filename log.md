@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+### Day 10: June 7, 2018
+
+**Today's Progress:** Working with Bundle, Tableviews
+
+**Thoughts:** I correctly managed to get a single audio from inside my app, but this wasn't enough. The main goal, here, is to learn how to get all the audio files inside my app and put them correctly in a Tableview, with some buttons for the audio players.
+
+**Useful link(s):**
+* [Custom Tableviewcell](https://developer.apple.com/library/archive/referencelibrary/GettingStarted/DevelopiOSAppsSwift/CreateATableView.html)
+* [Bundle documentation](https://developer.apple.com/documentation/foundation/bundle?changes=_2)
+
 ### Day 9: June 6, 2018
 
 **Today's Progress:** Working with AVFoundation
