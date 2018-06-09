@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+### Day 11: June 8, 2018
+
+**Today's Progress:** Working with Bundle, Tableviews, AVFoundation
+
+**Thoughts:** I set up the tableview with all the functionality rows have to have, right now I'm finding a way to get all files in a single directory.
+
+
+**Useful link(s):**
+* [Bundle documentation](https://developer.apple.com/documentation/foundation/bundle?changes=_2)
+
 ### Day 10: June 7, 2018
 
 **Today's Progress:** Working with Bundle, Tableviews
