@@ -2,7 +2,7 @@
 
 ### Day 11: June 8, 2018
 
-**Today's Progress:** Working with Bundle, Tableviews, AVFoundation
+**Today's Progress:** Working with **Bundle**, **Tableviews**, **AVFoundation**
 
 **Thoughts:** I set up the tableview with all the functionality rows have to have, right now I'm finding a way to get all files in a single directory.
 
@@ -12,7 +12,7 @@
 
 ### Day 10: June 7, 2018
 
-**Today's Progress:** Working with Bundle, Tableviews
+**Today's Progress:** Working with **Bundle**, **Tableviews**
 
 **Thoughts:** I correctly managed to get a single audio from inside my app, but this wasn't enough. The main goal, here, is to learn how to get all the audio files inside my app and put them correctly in a Tableview, with some buttons for the audio players.
 
@@ -22,7 +22,7 @@
 
 ### Day 9: June 6, 2018
 
-**Today's Progress:** Working with AVFoundation
+**Today's Progress:** Working with **AVFoundation**
 
 **Thoughts:** I managed to get a single audio file to play, pause and stop inside my app. For the future (aka tomorrow I hope), I'd like to be able to choose between 4 different audio files.
 
@@ -32,7 +32,7 @@
 
 ### Day 8: June 5, 2018
 
-**Today's Progress:** New project! Working with Core Audio
+**Today's Progress:** New project! Working with **Core Audio**
 
 **Thoughts:** For me it's quite difficult to stay at pace with the Challenge, mainly because my work in the Apple Developer Academy takes a lot of time... but I'm here! Right now, I started a new project, entirely on my own: I want to build a simple soundboard app where you can play different tracks at once. I'm currently seeing some tutorials and documentation for Core Audio and Split View Controller.
 
