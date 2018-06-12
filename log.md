@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 12: June 11, 2018
+
+**Today's Progress:** Starting working on audio mixing!
+
+**Thoughts:** I got **AVAudioEngine** to work properly, so it was pretty obvious starting on working on mixing different audios!
+
 ### Day 11: June 8, 2018
 
 **Today's Progress:** Working with **Bundle**, **Tableviews**, **AVFoundation**
