@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+### Day 13: September 28, 2020
+
+**Today's Progress:** Revamping the log!
+
+**Thoughts:** After two years, I decided to complete this log. So I'll start share my progresses everyday until I hit day 100! For today, I'll simply link the project I'm working on it for a month! This time, I switched from **Swift** to **Java** (I miss you, Mac :( ), it is an habit tracking Android app! You'll find the link below.
+
+**Useful link(s):**
+* [Sprout](https://github.com/Juuzen/Sprout) 
+
 ### Day 12: June 11, 2018
 
 **Today's Progress:** Starting working on audio mixing!
